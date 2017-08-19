@@ -1,0 +1,40 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "command": "npm",
+    "type": "shell",
+    // "isShellCommand": true,
+    "args": ["run"],
+    "presentation": {
+      "echo": true,
+      "reveal": "silent",
+      "focus": false,
+      "panel": "shared"
+    },
+    // "showOutput": "silent",
+    "tasks": [
+      {
+        "taskName": "compile",
+        // "isBuildCommand": false,
+        // "group": [
+        //   {
+        //     "kind": "build",
+        //     "isDefault": false
+        //   },
+        //   {
+        //     "kind": "test",
+        //     "isDefault": true
+        //   }
+        // ],
+        // "isTestCommand": false,
+        "presentation": {
+          "echo": true,
+          "reveal": "silent",
+          "focus": false,
+          "panel": "shared"
+        },
+        "args": []
+      }
+    ]
+}

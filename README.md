@@ -5,7 +5,10 @@
   * 支持断点调试 babel-es6
 
 ### GraphQL 相关
-  * 使用了pgsl 作为实践的数据库
+  * 使用了postagesql 作为实践的数据库
   * 使用了sequelize 实现ORM
   * 使用faker 做mock
   * 使用了Graphiql ，对应的服务地址 `/graphql`
+
+### Start :P
+  Just press F5 on VSCode

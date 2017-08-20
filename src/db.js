@@ -1,7 +1,7 @@
 import Sequelize from 'sequelize'
 import _ from 'lodash'
 import faker from 'faker'
-const database = 'pgTest', username = 'pgAdmin', password = '28875117Dj'
+const database = 'myDB', username = 'userA', password = 'passwordA'
 const db = new Sequelize(
   database,
   username,

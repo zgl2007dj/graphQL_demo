@@ -17,5 +17,5 @@
   thx for buy me a coffice :)
 
 <p align="center">
-  <img src="https://ws2.sinaimg.cn/large/006tNc79ly1fiqjxzexsjj30eq0eowgk.jpg" width="240">
+  <img src="https://ws2.sinaimg.cn/small/006tNc79ly1fiqjxzexsjj30eq0eowgk.jpg" width="240">
 </p>

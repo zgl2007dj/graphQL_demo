@@ -12,10 +12,3 @@
 
 ### Start :P
   Just press F5 on VSCode
-
-### Asked by WEIXI
-  thx for buy me a coffice :)
-
-<p align="center">
-  <img src="https://ws2.sinaimg.cn/small/006tNc79ly1fiqjxzexsjj30eq0eowgk.jpg" width="240">
-</p>

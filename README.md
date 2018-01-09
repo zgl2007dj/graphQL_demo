@@ -1,7 +1,7 @@
-## Try and learn GraghQL with nodejs
+## Try and learn GraghQL with Nodejs
 
 ### VSCode工具的调试
-  * 调教各种Plugin
+  * 一些增加强开发体验的Plugin
   * 支持断点调试 babel-es6
 
 ### GraphQL 相关
